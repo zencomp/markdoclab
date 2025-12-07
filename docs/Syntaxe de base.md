@@ -4,7 +4,7 @@ order: "20"
 icon: lucide/code
 ---
 
-## Gras
+## Gras ABC
 
 Le **gras** s'obtient en entourant du texte par 2 astérisques.
 
