@@ -4,7 +4,7 @@ index: "0"
 icon: simple/markdown
 ---
 
-## Introduction XYZ
+## Introduction
 
 > Se concentrer sur le fond, oublier la forme.
 
